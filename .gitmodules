@@ -1,0 +1,9 @@
+[submodule "ecommerce-react-"]
+	path = ecommerce-react-
+	url = https://github.com/rihan7/ecommerce.git
+[submodule "react"]
+	path = react
+	url = https://github.com/rihan7/ecommerce-react.git
+[submodule "ecommerce-react"]
+	path = ecommerce-react
+	url = https://github.com/rihan7/ecommerce.git
